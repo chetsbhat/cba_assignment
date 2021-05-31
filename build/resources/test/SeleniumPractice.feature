@@ -1,5 +1,5 @@
 Feature: Home Loan repayment calculator
-  @first
+  @second
   Scenario: Calculate Home loan
     Given I launch the website
     When I click on Home loans
